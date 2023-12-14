@@ -1,0 +1,4 @@
+[submodule "talk-vis-cat"]
+	path = talk-vis-cat
+	url = https://github.com/cynthiahqy/talk-vis-cat.git
+	branch = asc-poster
